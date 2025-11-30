@@ -1,0 +1,58 @@
+- class_name: 风景美如画
+  path_name: /landscape
+  type: 2
+  description: 目光所及，皆为风景🌇。
+  cover: https://wangshaokai040813blog.cfd/wangshaokai/20251125222134563.webp
+  top_background: https://wangshaokai040813blog.cfd/wangshaokai/20251125222134563.webp
+  rowHeight: 220
+  limit: 10
+  lazyload: true
+  btnLazyload: false
+  url: false
+  top_link: /album
+  top_btn_text: 返回
+  album_list:
+    - date: 2025/11/22 01:00:00
+      content: 齐齐哈尔扎龙湿地。
+      address: 黑龙江齐齐哈尔
+      from: 阿凯
+      image:
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125222134563.webp
+    - date: 2025-11-9
+      content: 齐齐哈尔冬天。
+      address: 黑龙江齐齐哈尔
+      from: 阿凯
+      image:
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125222437342.webp
+    - date: 2025-8-24
+      content: 齐齐哈尔医学院晚霞。
+      address: 黑龙江齐齐哈尔
+      from: 阿凯
+      image:
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125222134567.webp
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125222134566.webp
+
+- class_name: 我的日常
+  path_name: /dailyPhoto
+  type: 1
+  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://wangshaokai040813blog.cfd/wangshaokai/20251125222830753.webp
+  cover: https://wangshaokai040813blog.cfd/wangshaokai/20251125222830753.webp
+  album_list:
+    - date: 2025-11-22
+      content: 啊@企鹅
+      image:
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125222830753.webp
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125222830754.webp
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125222830755.webp
+    - date: 2025-11-22
+      content: 实习生日常
+      image:
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125222830757.webp
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125224708335.webp
+    - date: 2025-11-22
+      content: 学校的大喵
+      image:
+        - https://wangshaokai040813blog.cfd/wangshaokai/20251125222830758.webp
